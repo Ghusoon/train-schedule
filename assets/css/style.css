@@ -1,0 +1,27 @@
+
+body{
+    background: #eaf0e8;
+}
+.container{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.header {
+	background-color: #b0d1a2;
+
+}
+.header h1 {
+	color:#5f8847;
+	font-size: 5vw;
+	line-height: 0px;
+	margin:0px;
+	padding-bottom:0px;
+
+}
+.p-3  {
+    
+    background-color: #bad6ae;
+}
+#oclock{
+	float: right;
+}
